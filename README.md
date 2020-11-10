@@ -19,7 +19,7 @@ Created in 2020/August/14::Friday:: 11:36:07 AM
 
 
 
--Mobile 
+- Mobile 
 ![program pic](https://github.com/JUSTSAIF/SNAPCHAT-SPAM/blob/main/Pics/2.png?raw=true)
 
 
