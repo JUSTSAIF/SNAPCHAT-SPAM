@@ -3,7 +3,7 @@
 
 
 
-##[ Important ]
+[ Important ]
 Set Your Id and Bot Token for Telegram in [ Send.php ] page .
 
 
