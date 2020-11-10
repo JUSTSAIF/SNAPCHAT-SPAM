@@ -17,8 +17,10 @@ Created in 2020/August/14::Friday:: 11:36:07 AM
 - PC 
 ![program pic1](https://github.com/JUSTSAIF/SNAPCHAT-SPAM/blob/main/Pics/1.png?raw=true)
 
-- Done haha
+
+- Done
 ![program pic2](https://github.com/JUSTSAIF/SNAPCHAT-SPAM/blob/main/Pics/3.png?raw=true)
+
 
 - Mobile 
 ![program pic3](https://github.com/JUSTSAIF/SNAPCHAT-SPAM/blob/main/Pics/2.png?raw=true)
